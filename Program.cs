@@ -18,7 +18,7 @@ namespace DIO.Bank
                 Console.WriteLine("Opções: ");
                 Console.WriteLine("1 - Listar Contas");
                 Console.WriteLine("2 - Adicionar Conta");
-                Console.WriteLine("3 - Transferir");
+                Console.WriteLine("3 - Transferir entre contas");
                 Console.WriteLine("4 - Sacar");
                 Console.WriteLine("5 - Depositar");
                 Console.WriteLine("6 - Limpar Tela");
